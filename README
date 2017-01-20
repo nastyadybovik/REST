@@ -1,0 +1,16 @@
+This is a rest service and client. The theme is car catlog. 
+
+Next http methods are used:
+1.GET
+2.POST
+3.UPDATE
+4.DELETE
+5.OPTIONS
+
+For conversation between server and client JSON is used.
+
+Date is stored in list. No data base.
+
+To run the server you can type "mvn tomcat7:run" in car-catalog derictory.
+
+The clinet is console application. The jersey library is used.
