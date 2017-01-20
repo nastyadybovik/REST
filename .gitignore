@@ -32,3 +32,5 @@ Compiled source
 *.iml
 *.project
 
+src/
+pom.xml
